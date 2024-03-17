@@ -1,0 +1,31 @@
+*{
+	font-family: Calibri;
+
+}
+
+h3{
+	color: red;
+}
+
+.font{
+	text-align: left;
+	font-size: 12px;
+  font-family: Arial
+}
+
+img{
+	width: 50%;
+}
+
+.info{
+  display: flex;
+}
+
+#mr-k-corgi{
+  length: 80%;4
+}
+
+#shiba{
+	width: 200px;
+	border: 10px double #0b1165;
+}
